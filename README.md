@@ -6,3 +6,7 @@ uses 5V -180mA Solar panel to charge 3.7V Li-po Battery and 5V USB ouput with Au
 ## Schematic:
 
 ![](https://github.com/anoopcc99/Solar-Charger-with-Automatic-ON-OFF/blob/main/images/Schematic_Real%20solar_2020-10-24_11-29-04.png)
+
+## PCB Design & Layout:
+
+![](https://github.com/anoopcc99/Solar-Charger-with-Automatic-ON-OFF/blob/main/images/PCB_Solar%20pcb_2020-10-24_11-44-32.png)
